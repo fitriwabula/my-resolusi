@@ -1,7 +1,6 @@
 My Resolusi
-- Konsisten untuk terus belajar programming terutama di bidang PHP
-- Membuat aplikasi web responsive untuk bisnis saya sendiri dan forum diskusi
+- Konsisten untuk terus belajar Nodejs dan Reactjs
 - Membangun lapangan pekerjaan untuk teman-teman saya yang kesusahan
-- Kolaborasi dengan lebih banyak expert
-- Manajemen instagram menjadi education and more valuable
+- Membuat perusahaan sendiri
+- Manajemen sosial media menjadi education and more valuable
 
